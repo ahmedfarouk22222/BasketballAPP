@@ -1,6 +1,6 @@
 {
-    "name": "basketball",
-    "short_name": "basketball",
+    "name": "basketball_app",
+    "short_name": "basketball_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
